@@ -1,2 +1,1 @@
-jacob zucker
-# uchicago-cs-git-tutorial
+jacob zucker jrzucker
